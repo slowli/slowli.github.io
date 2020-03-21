@@ -37,5 +37,6 @@ texture:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
   # installed in Travis builds
   - vendor
