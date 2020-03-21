@@ -12,6 +12,7 @@ Incomplete catalog of small-scale projects I’ve developed or participated in.
   digital signature cryptosystem.
 - [Fractals](https://fractals.ostrov.ski/) (⚠️ in Russian), web site for rendering
   [Julia set](https://en.wikipedia.org/wiki/Julia_set) fractals. 
+- [Lectures on software engineering](https://lectures.ostrov.ski/) (⚠️ in Russian)
 
 ## Rust Crates
 
