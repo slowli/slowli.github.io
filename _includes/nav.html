@@ -1,0 +1,7 @@
+<nav class="navbar">
+  <ul>
+    {% for nav_item in site.header_nav %}
+      <li><a href="{{ nav_item.url | relative_url }}" title="{{ nav_item.title }}">{{ nav_item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

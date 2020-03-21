@@ -1,0 +1,41 @@
+remote_theme: thelehhman/texture
+site_sources: https://github.com/slowli/slowli.github.io
+
+title: Alex Ostrovski’s blog
+description: Alex Ostrovski’s personal blog about software development and other stuff
+author: Alex Ostrovski
+social:
+  name: Alex Ostrovski
+  links:
+    - https://www.linkedin.com/in/AlexOstrovski
+    - https://github.com/slowli
+
+header_nav:
+  - name: About
+    title: More about myself
+    url: /about
+  - name: Widgets
+    title: Some stuff I’ve created for the sake of it
+    url: /widgets
+
+copyright: >
+  &copy; Alex Ostrovski.
+  Available by <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a>. 
+
+texture:
+  title: Slowlɩ
+  tagline: Alex Ostrovski’s blog
+  date_format: "%b %-d, %Y"
+  style: blue
+  showPicker: false
+  showNav: true
+
+  social_links:
+    github: slowli
+    linkedIn: in/AlexOstrovski
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  # installed in Travis builds
+  - vendor
