@@ -12,4 +12,4 @@ I have [an older blog in Russian][old-blog]. It has a fatal flaw
 of <del>being in Russian</del> being built with WordPress. Maybe, one day some
 articles from this old blog will appear here…
 
-[old-blog]: https://ostrov.ski
+[old-blog]: https://old.ostrov.ski/
