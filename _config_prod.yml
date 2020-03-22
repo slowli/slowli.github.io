@@ -1,0 +1,4 @@
+# Overrides for the production environment.
+
+hoster: >
+  Hosted with <a href="https://www.netlify.com/">Netlify</a>.

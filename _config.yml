@@ -1,5 +1,7 @@
 remote_theme: thelehhman/texture
 site_sources: https://github.com/slowli/slowli.github.io
+hoster: >
+  Hosted with <a href="https://pages.github.com/">GitHub Pages</a>.
 
 title: Alex Ostrovski’s blog
 description: Alex Ostrovski’s personal blog about software development and other stuff
@@ -38,5 +40,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  # installed in Travis builds
-  - vendor
