@@ -74,11 +74,13 @@ header {
     font-weight: normal;
     margin-top: 5px;
   }
+  
   h1 {
     margin: 0;
 
     a {
       color: inherit;
+
       &:hover {
         text-decoration: none !important;
       }

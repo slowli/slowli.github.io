@@ -1,7 +1,9 @@
 remote_theme: thelehhman/texture
+url: https://ostrov.ski
 site_sources: https://github.com/slowli/slowli.github.io
 hoster: >
   Hosted with <a href="https://pages.github.com/">GitHub Pages</a>.
+  This is the preview version of <a href="https://ostrov.ski/">the main website</a>.
 
 title: Alex Ostrovski’s blog
 description: Alex Ostrovski’s personal blog about software development and other stuff
