@@ -24,7 +24,7 @@ header_nav:
 
 copyright: >
   &copy; Alex Ostrovski.
-  Available by <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a>. 
+  Available by <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 license</a>.
 
 texture:
   title: Slowlɩ
@@ -39,6 +39,7 @@ texture:
     linkedIn: in/AlexOstrovski
 
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - README.md
